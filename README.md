@@ -36,8 +36,11 @@ ORDER BY and LIMIT
 This task teaches how to:
 
 -Query individual tables
+
 -Use filtering (WHERE, LIKE, BETWEEN)
+
 -Sort results with ORDER BY
+
 -Limit results with LIMIT
 
 ---
