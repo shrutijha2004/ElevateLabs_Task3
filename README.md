@@ -3,7 +3,7 @@
 
 This project is focused on mastering data retrieval techniques using the Library Management System database.
 
-💡 Objective: Extract data using SELECT, WHERE, AND, OR, LIKE, BETWEEN, ORDER BY, and LIMIT.
+## 💡 Objective: Extract data using SELECT, WHERE, AND, OR, LIKE, BETWEEN, ORDER BY, and LIMIT.
 
 ## 🛠 Tools Used
 
